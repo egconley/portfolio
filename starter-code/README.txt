@@ -14,7 +14,7 @@ Estimate of time needed to complete: 20 minutes
 
 Start time: 11:37am
 
-Finish time: 
+Finish time: 1:31 (with 1 hour break)
 
 Actual time needed to complete: 1 hour
 
