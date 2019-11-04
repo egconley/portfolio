@@ -1944,6 +1944,23 @@ section, article {
       margin-left: 20%;
     }
 
+    #main > section.one {
+      background-color: #A891FF !important;
+      background-image: url("../../images/machu-picchu.jpg");
+    }
+
+    #main > section.two {
+      background-color: #E79FFF !important;
+    }
+
+    #main > section.three {
+      background-color: #E884E4 !important;
+    }
+
+    #main > section.four {
+      background-color: #FF91C4 !important;
+    }
+
 }
 
 /* Narrower */
@@ -2135,6 +2152,23 @@ section, article {
         padding: 4em 0;
       }
 
+      #main > section.one {
+        background-color: #97FF91 !important;
+        background-image: url("../../images/machu-picchu.jpg");
+      }
+  
+      #main > section.two {
+        background-color: #FDFAD8 !important;
+      }
+  
+      #main > section.three {
+        background-color: #E8A484 !important;
+      }
+  
+      #main > section.four {
+        background-color: #84C2E8 !important;
+      }
+
 }
 
 /* Mobile */
@@ -2176,6 +2210,23 @@ section, article {
 
       #main section.cover header {
         padding: 0 1em;
+      }
+
+      #main > section.one {
+        background-color: #CFFF87 !important;
+        background-image: url("../../images/machu-picchu.jpg");
+      }
+  
+      #main > section.two {
+        background-color: #94EBA5 !important;
+      }
+  
+      #main > section.three {
+        background-color: #7AFFEF !important;
+      }
+  
+      #main > section.four {
+        background-color: #E8D96F !important;
       }
 
   /* Footer */
